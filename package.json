@@ -4,7 +4,7 @@
   "description": "20201227 self learning",
   "main": "index.js",
   "scripts": {
-	"dev" : "ts-node-dev --respawn"
+    "dev": "ts-node-dev --respawn"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ishimori/typescrip-for-javascript-developers#readme",
   "devDependencies": {
-    "ts-node": "^8.6.2",
+    "ts-node": "^8.5.4",
     "ts-node-dev": "^1.1.1",
     "typescript": "^3.7.5"
   }
